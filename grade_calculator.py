@@ -1,9 +1,4 @@
-# ==============================================
 # Grade Calculator
-# Author: [Your Name]
-# Description: Calculates student letter grades
-#              based on numeric scores (0-100).
-# ==============================================
 
 def get_grade(score):
     """Return a letter grade based on numeric score."""
