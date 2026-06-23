@@ -1,9 +1,4 @@
-# ==============================================
 # Personal Daily Expense Tracker
-# Author: [Your Name]
-# Description: Tracks daily expenses, shows
-#              totals, highest and lowest spends.
-# ==============================================
 
 def display_expenses(expenses):
     """Print all recorded expenses in a formatted table."""
