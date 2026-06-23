@@ -1,11 +1,8 @@
 
 # ATM Banking System
-# Author: [Your Name]
-# Description: An ATM simulation that supports
-#              PIN login, withdrawal, balance
-#              checks, and account transfers.
 
-# --- User Database (sim) ---
+
+#  User Database 
 users = {
     "user1": {"name": "John Doe",  "pin": "1234", "balance": 2000.00},
     "user2": {"name": "Jane Smith","pin": "5678", "balance": 1000.00},
